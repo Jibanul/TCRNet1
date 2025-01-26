@@ -1,0 +1,4 @@
+#Directories to ignore
+output/
+data/
+weights_filters/
